@@ -1,0 +1,64 @@
+.titulos{
+    margin-top: 100px;
+    text-align:center;
+}
+
+.parrafos{
+    text-align:center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.listado{
+    /* text-align:center; */
+    margin-left: 45%; */
+    margin-top: 30px;
+}
+
+.titulos2{
+    text-align:center;
+}
+
+.separacion40{
+    margin-left:40%;
+}
+
+.separacion50{
+    margin-left:50%;
+}
+
+
+.alineaizq{
+    text-align: right;
+}
+
+table tr td{
+border: 2px solid blue;
+
+}
+
+.todoDerecha{
+    text-align:right;
+}
+
+.linkfotos{
+    margin-left: 100px;
+    margin-top:50%;
+    font-size:x-large;
+}
+
+.fotos{
+    width:300px;
+    height:200px;
+    margin-left: 0%;
+    margin-top: 10px;
+}
+.fotos2{
+    width: 600px; 
+    height: 500px; 
+    margin-left: 20%"
+}
+
+.margen200{
+    margin: 200px;
+}
