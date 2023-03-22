@@ -1,0 +1,49 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+    background-color: aquamarine;
+    }
+
+
+.tarjeta {
+position: relative;
+  display: block;
+
+  width: 700px;
+  margin-left: -350px;
+  left: 50%;
+  height: 200px;
+  margin-top: 50px;
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 30px;
+  box-shadow: black 10px 10px 0px;
+  background-color: bisque;
+}
+
+.tarjeta:hover {
+    cursor: pointer;
+    background-color: rgb(43, 183, 226);
+    box-shadow: white 10px 10px 0px;
+}
+
+.tarjeta:hover .texto{
+    color: brown;
+}
+
+.tarjeta .imagen, .tarjeta .texto{
+display: inline-block;
+
+}
+
+.tarjeta .imagen{
+    width: 40%;
+    margin-right: 10px;
+}
+
+.tarjeta .texto{
+    width: 50%;
+}
